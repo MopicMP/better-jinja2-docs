@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://MopicMP.github.io/better-jinja2-docs/index.html</loc><priority>1.0</priority></url>
+  <url><loc>https://MopicMP.github.io/better-jinja2-docs/environment.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-jinja2-docs/template.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-jinja2-docs/template-render.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-jinja2-docs/filesystemloader.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-jinja2-docs/packageloader.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-jinja2-docs/select-autoescape.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-jinja2-docs/markup.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-jinja2-docs/for.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-jinja2-docs/if.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-jinja2-docs/block.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-jinja2-docs/extends.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-jinja2-docs/include.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-jinja2-docs/macro.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-jinja2-docs/variable.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-jinja2-docs/variable-filter.html</loc><priority>0.8</priority></url>
+</urlset>
